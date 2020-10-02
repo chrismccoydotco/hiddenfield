@@ -1,0 +1,6 @@
+<script>
+  // place this in the Page > Custom Code (Below Body)
+  window.beforePost= function(){
+    formData.CUSTOMID= 'magic';
+  };
+</script>
